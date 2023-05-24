@@ -1,6 +1,6 @@
 Kahoot questions:
 I. To become more antifragile shall I rather:
-- add new coding language to my reperthuar
+- add new coding language to my repertoire
 - sign up for dance lessons
 - buy a more durable chair
 - attend IT conferences
@@ -18,28 +18,3 @@ III. A smart question at the end is:
 - what will the product you are working on look like in 5 years?
 - how many fruits can I eat on Fruit Wednesday?
 - can you tell me something about the technology you use?
-
-
-
-
-Abstract:
-In this event, you will see perspective on how to become a great engineer and look exceptionally well in a technical interview that is not focused on technology or technical skills. Lukasz in his talk will try to show you, why most engineers focus on incorrect things when they strive for excellence, and what is the way to correct that. If you feel that your skills are good enough to come to the next level, but you still can't reach it, this is a presentation for you.
-
-Bio: 
-Software engineer with 15 years of experience. Technical interviewer, entrepreneur and speaker with strong opinions about software engineering. Experienced in web technologies, .NET and cloud.
-
-
-Tags:
-Technical Interview
-Self improvement
-Solf skills
-
-
-21.06 - prezentacja
-7.06 - dry run
-14 - techniczny dry run
-
-
-
-Dodac linka o bezplatnych kursach:
-https://training.epam.com/#!/TrainingList?lang=en&City=-56
